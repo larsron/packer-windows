@@ -1,0 +1,18 @@
+# MacOS
+## Ignore desktop services files.
+**/.DS_Store
+
+# Cache objects
+packer_cache/
+
+# Crash log
+crash.log
+
+# For built boxes
+*.box
+
+# drivers
+drivers/
+
+# Others
+*.iso
